@@ -1,0 +1,7 @@
+streamlit 
+pandas 
+requests
+groq
+python-docx
+docxcompose
+openpyxl
